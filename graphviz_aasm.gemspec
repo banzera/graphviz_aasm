@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rspec"
 
-  spec.add_dependency "aasm", "~> 4.1"
+  spec.add_dependency "aasm", "~> 5.0"
   spec.add_dependency "activesupport"
   spec.add_dependency "railties"
   spec.add_dependency "ruby-graphviz"
